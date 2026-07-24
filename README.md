@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jayesh7798/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Jayesh7798/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jayesh7798/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Jayesh7798/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayesh7798/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jayesh7798/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Jayesh7798/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayesh7798/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jayesh7798/Leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayesh7798/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -50,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jayesh7798/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jayesh7798/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jayesh7798/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
