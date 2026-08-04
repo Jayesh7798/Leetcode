@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Jayesh7798/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayesh7798/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Jayesh7798/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Jayesh7798/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jayesh7798/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Jayesh7798/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jayesh7798/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Jayesh7798/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Jayesh7798/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Jayesh7798/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Jayesh7798/Leetcode/tree/master/0441-arranging-coins) |
 ## Dynamic Programming
 |  |
 | ------- |
