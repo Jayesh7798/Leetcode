@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jayesh7798/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Jayesh7798/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jayesh7798/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Jayesh7798/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Jayesh7798/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Jayesh7798/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Jayesh7798/Leetcode/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jayesh7798/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Jayesh7798/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jayesh7798/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Jayesh7798/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Jayesh7798/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayesh7798/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Jayesh7798/Leetcode/tree/master/0367-valid-perfect-square) |
