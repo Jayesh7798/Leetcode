@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Jayesh7798/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jayesh7798/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Jayesh7798/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Jayesh7798/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jayesh7798/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Jayesh7798/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jayesh7798/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Jayesh7798/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
