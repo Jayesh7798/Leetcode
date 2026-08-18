@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Jayesh7798/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Jayesh7798/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jayesh7798/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jayesh7798/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Jayesh7798/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Jayesh7798/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Jayesh7798/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Jayesh7798/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jayesh7798/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jayesh7798/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jayesh7798/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Jayesh7798/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jayesh7798/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Jayesh7798/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
